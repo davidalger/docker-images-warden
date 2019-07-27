@@ -1,4 +1,4 @@
-# Docker Images for Developer Environments Orchestrated by Warden
+# Docker Images for Warden
 
 * https://warden.dev/
 * https://hub.docker.com/r/davidalger/warden
