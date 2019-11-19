@@ -12,3 +12,4 @@ RUN curl -o /etc/bash_completion.d/n98-magerun.phar.bash \
         https://raw.githubusercontent.com/netz98/n98-magerun/master/res/autocompletion/bash/n98-magerun.phar.bash
 
 USER www-data
+RUN alias mr="n98-magerun"
