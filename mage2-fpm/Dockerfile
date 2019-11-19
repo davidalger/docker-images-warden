@@ -16,3 +16,4 @@ RUN curl -o /etc/bash_completion.d/n98-magerun2.phar.bash \
 RUN mkdir /var/www/html/pub && chown www-data:www-data /var/www/html/pub
 
 USER www-data
+RUN alias mr="n98-magerun"
