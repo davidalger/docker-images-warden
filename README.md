@@ -1,11 +1,8 @@
 # Docker Images for Warden
 
-* https://warden.dev/
-* https://hub.docker.com/r/davidalger/warden
+**This repository has been archived and it's contents relocated to reside within the main Warden project repository. You may find and contribute to these sources at the following location:**
 
-## About These Images
-
-TODO: Add complete list here with descriptions for each of them.
+https://github.com/davidalger/warden/tree/develop/images
 
 ## License
 
